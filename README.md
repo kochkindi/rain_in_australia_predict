@@ -1,4 +1,4 @@
-# rain_in_australia_predict
+# Predict rain in Australia
 - В данной работе была предпринята попытка предсказать возможность дождя на следующий день на основе данных гидрометцентра за 10 лет в Австралии. Была поставлена задача классификации.
 
 https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
@@ -64,7 +64,7 @@ Precision: 0.8018
 Recall: 0.7984
 ROC_AUC: 0.8862
 
--XGBoost с подбором гиперпараметров при помощи CVGridSearch:
+- XGBoost с подбором гиперпараметров при помощи CVGridSearch:
 Accuracy: 0.8058
 Precision: 0.8094
 Recall: 0.7972
